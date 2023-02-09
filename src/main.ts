@@ -5,7 +5,6 @@ import '@/assets/base.scss'
 import '@/assets/theme.scss'
 import "@/utils/extend"
 
-import './assets/main.css'
 import {createPinia} from "pinia";
 
 const app = createApp(App)
